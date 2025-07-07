@@ -1,0 +1,10 @@
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\bin\Debug\XOGame.exe.config
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\bin\Debug\XOGame.exe
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\bin\Debug\XOGame.pdb
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\obj\Debug\XOGame.csproj.AssemblyReference.cache
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\obj\Debug\XOGame.Form1.resources
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\obj\Debug\XOGame.Properties.Resources.resources
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\obj\Debug\XOGame.csproj.GenerateResource.cache
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\obj\Debug\XOGame.csproj.CoreCompileInputs.cache
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\obj\Debug\XOGame.exe
+C:\Users\Manaf Al Bukhari\source\Course14V2\XOGame\obj\Debug\XOGame.pdb
